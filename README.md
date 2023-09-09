@@ -5,16 +5,16 @@
 This project was a submission for the Solid State Circuit Society's Arduino Contest, [placing 1st](https://www.sscs-arduino-contest.com/winners) in the undergraduate category. 
 
 ### Circuit Components 
-- Arduino Uno
-- Breadboard
-- 1 photoresistor sensor 
-- 2 push-buttons
-- 2 220 ohm resistors
-- 2 potentionmeters
-- 1 servo motor
-- 2 switches
-- 1 ultrasonic ranging sensor
-- 1 (active) piezo buzzer
+- Arduino Uno (1) 
+- Breadboard (1) 
+- Photoresistor sensor (1) 
+- Push-buttons (2)
+- 220&Omega; resistors (2)
+- Potentionmeters (2) 
+- Servo motor (1) 
+- Switches (2)
+- Ultrasonic ranging sensor (1)
+- Active piezo buzzer (1) 
 - Wires
 
 
